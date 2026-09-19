@@ -56,4 +56,8 @@ CS13a-Assignment
 <img width="1508" height="2024" alt="NFA_diagram (1)" src="https://github.com/user-attachments/assets/ef2a2e5a-c378-40e3-b657-56105112c36d" />
 
 
+## Program output
+<img width="674" height="202" alt="Output" src="https://github.com/user-attachments/assets/1fb1f4d1-faf3-4607-94c0-93e43d3882f0" />
+
+
 
