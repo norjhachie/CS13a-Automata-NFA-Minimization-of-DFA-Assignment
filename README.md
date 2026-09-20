@@ -9,6 +9,7 @@ CS13a-Assignment
 ## Example 1:
 
 • Written DFA diagram with transition table, equivalence solution and example inputs
+<img width="1536" height="2048" alt="DFA1_minimization" src="https://github.com/user-attachments/assets/470f6239-5ef2-408b-8b6c-5316013c4e46" />
 
 
 • Program output
@@ -18,6 +19,7 @@ CS13a-Assignment
 ## Example 2:
 
 • Written DFA diagram with transition table, equivalence solution and example inputs
+<img width="1536" height="2048" alt="DFA2_minimization" src="https://github.com/user-attachments/assets/054b1659-0cfc-4c4c-82d1-ed2e4244fb8f" />
 
 
 • Program output
@@ -27,6 +29,7 @@ CS13a-Assignment
 ## Example 3:
 
 • Written DFA diagram with transition table, equivalence solution and example inputs
+<img width="1536" height="2048" alt="DFA3_minimization" src="https://github.com/user-attachments/assets/dea2db88-9212-4417-8af6-5e7576cb071b" />
 
 
 • Program output
@@ -36,6 +39,7 @@ CS13a-Assignment
 ## Example 4:
 
 • Written DFA diagram with transition table, equivalence solution and example inputs
+<img width="1536" height="2048" alt="DFA4_minimization" src="https://github.com/user-attachments/assets/8d1937d8-9471-4a81-a7ec-578d38d967b1" />
 
 
 • Program output
@@ -49,9 +53,8 @@ CS13a-Assignment
 
 
 
-# CS13a-Automata-NFA-Assignment
 
-## NFA for C style Comments
+# NFA for C style Comments
 
 <img width="1508" height="2024" alt="NFA_diagram (1)" src="https://github.com/user-attachments/assets/ef2a2e5a-c378-40e3-b657-56105112c36d" />
 
